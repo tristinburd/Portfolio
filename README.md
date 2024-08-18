@@ -8,7 +8,7 @@ Employer projects:
 
 [Project 2: Creating an Advanced Dashboard in Tableau](https://github.com/tristinburd/employer-advanced-dashboard/tree/main)
 
-[Project 3: Sentiment Analysis Using Survey and Social Media Data](https://github.com/yourusername/facial-recognition-model)
+[Project 3: Sentiment Analysis Using Survey and Social Media Data](https://github.com/tristinburd/employer-sentiment-analysis/tree/main)
 
 
 University projects: 
