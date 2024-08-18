@@ -17,9 +17,6 @@ University projects:
 
 [Project 2: Using Machine Learning for Targeted Marketing Campaigns](https://github.com/tristinburd/machine-learning-for-targeted-marketing/tree/main)
 
-[Project 3: Predicting Customer Churn for a Financial Institution](https://github.com/tristinburd/predicting-customer-churn-for-financial-institution/tree/main)
-
-
 Personal projects: 
 
 [Project 1: Optimizing a Supply Chain Process for Faster Deliveries](https://github.com/tristinburd/supply-chain-optimization/tree/main)
