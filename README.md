@@ -4,7 +4,7 @@ Welcome to my Portfolio! Below are links to the projects I've worked on at Unive
 
 Employer projects: 
 
-[Project 1: Creating an Advanced Dashboard in Tableau](https://github.com/yourusername/facial-recognition-model)
+[Project 1: Creating an Advanced Dashboard in Tableau]([https://github.com/yourusername/facial-recognition-model](https://github.com/tristinburd/employer-advanced-dashboard/tree/main))
 
 [Project 2: Deploying an End-To-End Machine Learning Model and Industry Report](https://github.com/yourusername/facial-recognition-model)
 
