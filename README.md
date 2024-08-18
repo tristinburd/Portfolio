@@ -26,3 +26,24 @@ Personal Projects:
 - Coming soon
 
 Others coming soon
+
+Employer projects: 
+- [Project 1: Facial Recognition Model](https://github.com/yourusername/facial-recognition-model)
+  - A Python-based computer vision model for detecting human faces with high accuracy.
+- [Project 1: Facial Recognition Model](https://github.com/yourusername/facial-recognition-model)
+  - A Python-based computer vision model for detecting human faces with high accuracy.
+- [Project 1: Facial Recognition Model](https://github.com/yourusername/facial-recognition-model)
+  - A Python-based computer vision model for detecting human faces with high accuracy.
+ 
+University projects: 
+- [Project 1: Facial Recognition Model](https://github.com/yourusername/facial-recognition-model)
+  - A Python-based computer vision model for detecting human faces with high accuracy.
+- [Project 1: Facial Recognition Model](https://github.com/yourusername/facial-recognition-model)
+  - A Python-based computer vision model for detecting human faces with high accuracy.
+- [Project 1: Facial Recognition Model](https://github.com/yourusername/facial-recognition-model)
+  - A Python-based computer vision model for detecting human faces with high accuracy.
+ 
+Personal projects: 
+- [Project 1: Facial Recognition Model](https://github.com/yourusername/facial-recognition-model)
+  - A Python-based computer vision model for detecting human faces with high accuracy.
+
