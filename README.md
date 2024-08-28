@@ -2,6 +2,8 @@
 Welcome to my Portfolio! Below are links to the projects I've worked on at University or with an Employer: 
 
 
+[Employer Projects](https://github.com/tristinburd/employer-projects/main/)
+
 Employer projects: 
 
 [Project 1: Deploying an End-To-End Machine Learning Model and Industry Report](https://github.com/tristinburd/employer-end-to-end-project/blob/main/README.md)
